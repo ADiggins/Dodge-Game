@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01_Scenes/Testing Scenes/(Testing) PlayerControls.unity
+  isLoaded: 1
+  isActive: 1
